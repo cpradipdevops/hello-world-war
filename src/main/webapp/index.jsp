@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Hello WORLD!</title>
+<title>Hello pradip!</title>
 </head>
 <body>
-	<h1>Hello Pradip!</h1>
+	<h1>Hello every body , this is the testing for the ci cd !</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
